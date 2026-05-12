@@ -26,10 +26,6 @@ It covers securing Spanning Tree Protocol (STP), configuring root/secondary brid
 - 2 Access Switches (SW-A, SW-B)  
 - End devices (PCs and Servers)  
 
-## Files
-- `Layer2-Security.pkt` → Cisco Packet Tracer lab file  
-- `README.md` → Documentation  
-
 ## Topology Overview
 
 | Device   | Role              | VLAN | Ports Secured | Notes                  |
